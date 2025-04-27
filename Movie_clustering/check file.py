@@ -1,4 +1,4 @@
 import os
 
-directory = r'C:\Users\Adrian\Desktop\NAI_toolsAI\Movie_clustering'
+directory = r'Path_to_your_MovieClustering Folder'
 print("Pliki w katalogu:", os.listdir(directory))
